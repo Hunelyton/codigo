@@ -1,6 +1,6 @@
-<h1 align="center">Whaticket Baileys cumunidade |Canal Vem Fazer</h1>
+<h1 align="center">Whaticket Baileys cumunidade </h1>
 
-<h1 align="center">https://www.youtube.com/@vemfazer</h1>
+
 
 
 ## Vamos instalar?
@@ -8,7 +8,7 @@
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/ctichat/instaladorvemfazer install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Hunelyton/intalador install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
